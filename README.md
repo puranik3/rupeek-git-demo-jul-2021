@@ -20,3 +20,5 @@ git branch <branchname>
 git branch
 git checkout <branchname>
 ```
+
+Some new documentation created in docs branch
