@@ -21,4 +21,4 @@ git branch
 git checkout <branchname>
 ```
 
-Some new documentation added in master branch
+Some new documentation added in master and docs branches
