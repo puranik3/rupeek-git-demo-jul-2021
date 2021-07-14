@@ -13,3 +13,10 @@ git restore --staged <file>
 git commit -m "commit message"
 git log
 ```
+
+## Steps to branch
+```
+git branch <branchname>
+git branch
+git checkout <branchname>
+```
